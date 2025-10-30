@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - canPickUp
+  - door
+  - player
+  - jumpscareSpider
+  - enemy
+  - Pushable
+  - woodfloor
+  - pasto
+  - button
+  - elevator
+  - vent
+  - enemyFreddy
+  - AudioSourceSong
+  - concrete
+  - backroomfloor
+  - puertaBackroom
+  - Backrooms
+  - BackroomNoise
+  - BackgroundVisualConfig
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Brazo
+  - Water
+  - UI
+  - Player
+  - Puerta
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - pickDefault
+  - key
+  - 
+  - 
+  - 
+  - Jumpscare
+  - AIJumpscare
+  - Floor
+  - 
+  - 
+  - 
+  - 
+  - Luces
+  - VHS
+  - Obstacle
+  - Ignore Navmesh
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
