@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f4e6bbfbf0e178f4ea5f05130f0c0021
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Logika Nova
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f13be8d7947fcab4ca6ab634b1886705, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
